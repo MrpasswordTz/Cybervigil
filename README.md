@@ -30,7 +30,7 @@ pip install time
 
 pip install key
 
- gitclone https://github.com/MrpasswordTz/Cybervigil.git
+gitclone https://github.com/MrpasswordTz/Cybervigil.git
   
 cd Cybervigil
 
