@@ -1,4 +1,4 @@
-<img src="https://github.com/MrpasswordTz/Cybervigil/blob/main/cyvigil.png" alt="Cybevigil">
+<img src="https://github.com/MrpasswordTz/Cybervigil/blob/main/Screenshot_20240312-170833~2.png" alt="Cybevigil">
 
 <strong>Key Features:</strong>
 
