@@ -20,15 +20,7 @@ Cybervigil AI is designed to be user-friendly, with a command-line interface tha
 <pre>
 apt install python3
 
-pip install openai 
-
 pip install openai==0.28
-
-pip install pyfiglet 
-
-pip install time
-
-pip install key
 
 gitclone https://github.com/MrpasswordTz/Cybervigil.git
   
