@@ -9,6 +9,14 @@ venv/
 # Environment variables
 api/.env
 
+#full
+Cybervigil/api/.env
+
+#env
+.env
+
+
+
 # Logs or temporary files
 *.log
 *.tmp
