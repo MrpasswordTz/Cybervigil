@@ -61,7 +61,7 @@ venv\Scripts\activate     # Windows</code></pre>
 </p>
 
 <p align="center">
-  <img src="https://placehold.co/600x400/1a1a2e/white?text=Command+Mode+Example" alt="Command Mode">
+  <img src="https://raw.githubusercontent.com/MrpasswordTz/Cybervigil/refs/heads/main/images/int.png" alt="Command Mode">
   <br>
   <em>Single command query example</em>
 </p>
