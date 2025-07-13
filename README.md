@@ -1,9 +1,8 @@
 <h1 align="center">🔥 CyberVigil v2 - Your AI-Powered Cybersecurity Terminal Assistant</h1>
 
 <p align="center">
-  <img src="https://placehold.co/1200x400/1a1a2e/white?text=CyberVigil+v2+-+AI+Cybersecurity+Terminal+Assistant" alt="CyberVigil Banner">
+  <img src="https://raw.githubusercontent.com/MrpasswordTz/Cybervigil/refs/heads/main/banner.png" alt="CyberVigil Banner">
   <br>
-  <em>(Replace with your actual banner image)</em>
 </p>
 
 <h2>🚀 Introduction</h2>
