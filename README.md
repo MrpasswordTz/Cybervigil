@@ -55,7 +55,7 @@ venv\Scripts\activate     # Windows</code></pre>
 
 <h2>📸 Screenshots</h2>
 <p align="center">
-  <img src="https://placehold.co/600x400/1a1a2e/white?text=Interactive+Mode+Example" alt="Interactive Mode">
+  <img src="https://raw.githubusercontent.com/MrpasswordTz/Cybervigil/refs/heads/main/images/int.png" alt="Interactive Mode">
   <br>
   <em>Interactive chat with CyberVigil</em>
 </p>
