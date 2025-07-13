@@ -1,7 +1,7 @@
 <h1 align="center">🔥 CyberVigil v2 - Your AI-Powered Cybersecurity Terminal Assistant</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MrpasswordTz/Cybervigil/refs/heads/main/banner.png" alt="CyberVigil Banner">
+  <img src="https://raw.githubusercontent.com/MrpasswordTz/Cybervigil/images/refs/heads/main/banner.png" alt="CyberVigil Banner">
   <br>
 </p>
 
