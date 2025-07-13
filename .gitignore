@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment directory
+venv/
+.venv/
+
+# Environment variables
+api/.env
+
+# Logs or temporary files
+*.log
+*.tmp
